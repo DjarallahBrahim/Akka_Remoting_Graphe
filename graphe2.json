@@ -8,7 +8,7 @@
     {
       "id": "5",
       "children": [{
-          "host" : "akka.tcp://system@127.0.0.1:8888/user/node1"
+          "host" : "akka.tcp://systemNameOfTargetMachine@127.0.0.1:8888/user/node1"
         }]
     }
   ]
